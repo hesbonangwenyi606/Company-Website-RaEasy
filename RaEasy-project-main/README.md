@@ -68,12 +68,10 @@ No frontend framework or runtime API is required.
 
 ## Local development
 ### Requirements
-
 - Node.js 20.19+ or 22.12+
 - npm
 
 ### Installation
-
 ```bash
 npm install
 ```
