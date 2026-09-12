@@ -4,7 +4,6 @@ A responsive, single-page company website for RaEASY Solutions. The website pres
 The experience is designed to communicate RaEASY's services clearly, establish credibility, and convert visitors through direct contact, WhatsApp, and a demo-request form.
 
 ## Features
-
 - Responsive layout built with CSS Grid and Flexbox
 - Desktop, tablet, mobile, and narrow-screen breakpoints
 - Animated hero presentation with a slowly rotating connected globe
