@@ -29,7 +29,6 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 - Dashboards and internal systems
 
 ### Zoho ecosystem solutions
-
 - Zoho One implementation
 - Zoho CRM setup and customisation
 - Zoho Books and finance setup
@@ -40,7 +39,6 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 - Zoho optimisation and ongoing support
 
 ### Integration and automation
-
 - API and third-party integrations
 - Zoho Flow automation
 - Deluge workflow automation
@@ -48,7 +46,6 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 - Business reporting and analytics
 
 ## Homepage structure
-
 1. Hero and primary call to action
 2. Animated company statistics
 3. RaEASY value proposition
