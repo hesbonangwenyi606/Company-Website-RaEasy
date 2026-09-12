@@ -57,7 +57,6 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 9. Floating WhatsApp action
 
 ## Technology
-
 - HTML5
 - CSS3
 - Vanilla JavaScript
