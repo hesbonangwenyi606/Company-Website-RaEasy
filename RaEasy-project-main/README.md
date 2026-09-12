@@ -1,5 +1,4 @@
 # RaEASY Solutions Website
-
 A responsive, single-page company website for RaEASY Solutions. The website presents the company as a custom software development and Zoho ecosystem implementation partner for growing organisations.
 
 The experience is designed to communicate RaEASY's services clearly, establish credibility, and convert visitors through direct contact, WhatsApp, and a demo-request form.
