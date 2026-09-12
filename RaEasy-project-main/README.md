@@ -84,7 +84,6 @@ npm run dev
 Open [http://localhost:4173](http://localhost:4173) in a browser. If the port is already occupied, Vite will select the next available port.
 
 ## Production build
-
 Create an optimised production bundle:
 
 ```bash
