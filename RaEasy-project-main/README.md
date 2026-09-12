@@ -67,7 +67,6 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 No frontend framework or runtime API is required.
 
 ## Local development
-
 ### Requirements
 
 - Node.js 20.19+ or 22.12+
