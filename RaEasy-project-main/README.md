@@ -190,9 +190,7 @@ Publish the contents of `dist/` as the website root.
 - Test the deployed form, telephone, email, and WhatsApp links
 
 ## Brand direction
-
 The interface follows RaEASY's established visual direction:
-
 - Deep forest-green foundations
 - Bright green accents
 - Warm neutral surfaces
