@@ -21,9 +21,7 @@ The experience is designed to communicate RaEASY's services clearly, establish c
 - SEO title and page description
 
 ## Core services presented
-
 ### Custom software development
-
 - Custom web applications
 - Mobile applications
 - Customer and employee portals
